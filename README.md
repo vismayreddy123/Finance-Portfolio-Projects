@@ -37,6 +37,15 @@ This framework automates the daily reconciliation process between internal trade
 - **Dashboard:** Executive summary with metrics
 - **Reference:** Security master data and resolution guidelines
 
+## 📄 Documentation
+
+**[Technical Report](Fund_Reconciliation_Technical_Report.pdf)** - Comprehensive 4-page documentation covering:
+- Technical architecture and design decisions
+- Formula logic and implementation details
+- Fund operations context and real-world applications
+- Key terminology and operational procedures
+- Break resolution guidelines and SLAs
+
 ## 🎯 Real-World Application
 
 This framework models the reconciliation processes used by middle office teams at hedge funds and asset managers to ensure accurate position keeping, NAV calculation, and regulatory compliance.
